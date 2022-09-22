@@ -1,0 +1,24 @@
+.sidebar {
+    width: 150px;
+    min-height: 935px;
+    background-color: #191718;
+}
+.sidebar ul {
+    padding: 0;
+}
+.sidebar-link-home{
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #fff;
+}
+.sidebar-link {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #aaa;
+}
+.active {
+    color: #fff;
+    background-color: #5C5C5C;
+}

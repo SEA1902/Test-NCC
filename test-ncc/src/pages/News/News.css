@@ -1,0 +1,33 @@
+.news-page{
+    padding: 20px 120px;
+}
+
+.logo-img{
+    display: block;
+    width: 280px;
+    height: 100px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.group1{
+    background-color: #EFEFEF;
+    text-align: center;
+    padding: 20px 100px;
+    margin-bottom: 20px;
+}
+.group1 label{
+    font-weight: 700;
+    font-size: 18px;
+}
+.group1 p{
+    font-weight: 400;
+    font-size: 16px;
+}
+.group-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}

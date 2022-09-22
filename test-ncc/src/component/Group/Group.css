@@ -1,0 +1,17 @@
+.group {
+    width: 400px
+}
+.group label{
+    font-weight: 700;
+    font-size: 24px;
+}
+.group img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+}
+.group p{
+    font-weight: 400;
+    font-size: 16px;
+}
