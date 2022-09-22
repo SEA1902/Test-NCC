@@ -22,3 +22,14 @@
     color: #fff;
     background-color: #5C5C5C;
 }
+@media screen and (max-width: 414px) {
+    .sidebar{
+        min-height: 50px;
+        width: 100%;
+    }
+    .sidebar ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+}
